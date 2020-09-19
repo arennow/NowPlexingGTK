@@ -1,0 +1,3 @@
+[submodule "PlexMessage"]
+	path = PlexMessage
+	url = git@github.com:arennow/PlexMessage.git
